@@ -13,7 +13,6 @@
     native debug_str_query($vconnectionid); // This Function shows the last MySQL error with one string. This Function don't return any specific value
     native debug_mysql_query($vquery, $vconnectionid); // This Function Send One query to one mysql server and result the error code automatic. This Function
     don't return any specific value
-    native 
 
 */
 
